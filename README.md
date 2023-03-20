@@ -1,4 +1,4 @@
-# CountryQuiz
+<h2 gravity=center> Country Quiz</h2>
 
 <p>"Country Quiz" is an educational and entertaining app that lets you test your knowledge of world flags. With this app, you can learn to recognize and name the flags of different countries around the world.
 
